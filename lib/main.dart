@@ -24,7 +24,6 @@ class _MyHomePageState extends State<MyHomePage> {
   Text _text = Text(
     'Hey There',
     style: TextStyle(
-      locale: Locale("UA"),
       fontSize: 35,
       shadows: <Shadow>[
         Shadow(
